@@ -9,6 +9,7 @@
 ###
 
 <div align="center" style="margin: 0 100px 0 100px">
+  <h4>Connect with Me</h4>
   <a href="https://www.linkedin.com/in/zaenal-abidin-syah-28a4b4292/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
@@ -62,8 +63,6 @@
 
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white"/> <img src="https://img.shields.io/badge/Lubuntu-0068C8?style=for-the-badge&logo=lubuntu&logoColor=white"/> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/> <img src="https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white"/> <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
 
-##### Connect with Me
-
 ##### Github Stats
 
 ![Zaenal's GitHub stats](https://github-readme-stats.vercel.app/api?username=zaenal-abidin-syah&show_icons=true&theme=tokyonight)
@@ -72,11 +71,7 @@
 
 <h2>Play games with me</h2>
 
-<img src="https://raw.githubusercontent.com/zaenal-abidin-syah/zaenal-abidin-syah/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
-###
-
-###
+<img src="https://raw.githubusercontent.com/zaenal-abidin-syah/zaenal-abidin-syah/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 <!--
 **zaenal-abidin-syah/zaenal-abidin-syah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
