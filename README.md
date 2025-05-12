@@ -80,10 +80,6 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/zaenal-abidin-syah/zaenal-abidin-syah/output/pacman-contribution-graph.svg">
 </picture> -->
 
-###
-
-###
-
 <!--
 **zaenal-abidin-syah/zaenal-abidin-syah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
