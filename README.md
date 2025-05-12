@@ -1,4 +1,6 @@
-## Hi there 👋
+![github-header](img/github-header-image.png)
+
+<!-- # Hi, I'am Zaenal Abidin Syah -->
 
 <!--
 **zaenal-abidin-syah/zaenal-abidin-syah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
