@@ -73,11 +73,16 @@
 <h2>Play games with me</h2>
 <img src="https://raw.githubusercontent.com/zaenal-abidin-syah/zaenal-abidin-syah/output/snake.svg" alt="Snake animation" />
 
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zaenal-abidin-syah/zaenal-abidin-syah/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zaenal-abidin-syah/zaenal-abidin-syah/output/pacman-contribution-graph.svg">
+  <img src="https://raw.githubusercontent.com/zaenal-abidin-syah/zaenal-abidin-syah/output/snake.svg" alt="Snake animation" />
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/zaenal-abidin-syah/zaenal-abidin-syah/output/pacman-contribution-graph.svg">
-</picture>
+</picture> -->
+
+###
+
+###
 
 <!--
 **zaenal-abidin-syah/zaenal-abidin-syah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
