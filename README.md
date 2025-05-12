@@ -72,16 +72,6 @@
 
 <h2>Play games with me</h2>
 
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zaenal-abidin-syah/zaenal-abidin-syah/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zaenal-abidin-syah/zaenal-abidin-syah/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/zaenal-abidin-syah/zaenal-abidin-syah/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
 <img src="https://raw.githubusercontent.com/zaenal-abidin-syah/zaenal-abidin-syah/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 ###
