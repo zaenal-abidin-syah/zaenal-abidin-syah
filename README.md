@@ -40,7 +40,7 @@
   <a href="">
     <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" height="25" alt="reddit logo"  />
   </a>
-  <a href="">
+  <a href="https://myanimelist.net/profile/zaenssss">
     <img src="https://img.shields.io/badge/Myanimelist-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white" height="25" alt="myanimelist logo"  />
   </a>
 </div>
